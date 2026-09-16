@@ -2,20 +2,6 @@
 
 Welcome to the official public release distribution repository for **Lyra Music**!
 
-[![Latest Release](https://img.shields.io/github/v/release/deepranjan71/LyraMusic-Releases?style=for-the-badge&color=FA2D48)](https://github.com/deepranjan71/LyraMusic-Releases/releases/latest)
-[![Platform](https://img.shields.io/badge/Platform-Android%208.0%2B-3DDC84?style=for-the-badge&logo=android)](https://github.com/deepranjan71/LyraMusic-Releases)
-[![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg?style=for-the-badge)](https://github.com/deepranjan71/LyraMusic-Releases)
-
----
-
-## ⚡ Quick Download
-
-Download the latest signed Android APK directly:
-
-👉 **[Download Lyra Music v3.7.0 (APK)](https://github.com/deepranjan71/LyraMusic-Releases/releases/download/v3.7.0/Lyra-v3.7.0-release.apk)** *(62.9 MB)*
-
----
-
 ## 🌟 Key Features
 
 - 🎧 **High-Fidelity Audio**: 320kbps resolution powered by JioSaavn, YouTube Music & iTunes APIs.
@@ -60,3 +46,12 @@ All release APKs in this repository are compiled directly from source and digita
 - **Package Name**: `com.deep.musicplayer`
 - **Min Android SDK**: Android 8.0 (API 26) / Recommended Android 10+
 - **Developer**: Deep Ranjan
+
+⚖️ Legal Disclaimer
+
+Lyra Music is an open-source, non-commercial media player application designed 
+strictly for personal and educational use. 
+
+Lyra Music does not host, store, upload, or own any audio content or media files. 
+All audio streams, song metadata, album artwork, and trademarks belong to their 
+respective copyright holders and third-party content providers.
